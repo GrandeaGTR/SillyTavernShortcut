@@ -9,4 +9,4 @@ SillyTavern is a wonderful version of TavernAI. However, it can be a little bit 
 
 This is a command prompt shortcut that calls miniconda and enters all the prompts needed to run the essential [Extra Modules](https://github.com/Cohee1207/SillyTavern-extras#modules) for SillyTavern on its own, saving a good bit of time for the user. It is theoretically easily configurable to the user, but it will run the general things needed to enjoy what you can with SillyTavern and TavernAI.
 
-You can download **[here](https://github.com/GrandeaGTR/SillyTavernShortcut/releases/tag/Release)** or in the releases tab on the right side of the page.
+You can download by checking the file above or in the releases tab on the right side of the page.
