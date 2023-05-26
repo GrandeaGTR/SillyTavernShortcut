@@ -1,5 +1,7 @@
 # SillyTavernShortcut
-Running SillyTavern can be a little bit overwhelming for some people. This is a shortcut that essentially gets the ball rolling as soon as you get your AI backend running.
+A shortcut that simplifies the process of getting SillyTavern started.
+
+SillyTavern is a wonderful version of TavernAI. However, it can be a little bit overwhelming for some people when it comes to running it. This is a shortcut that essentially gets the ball rolling as soon as you get your AI backend running.
 
 **This is for [SillyTavern](https://github.com/Cohee1207/SillyTavern). In order to use this, you'll have to set up the project itself first. It's also advisable that you take a look at the [Extra Modules](https://github.com/Cohee1207/SillyTavern-extras) since there's a general how-to to run the project.**
 
